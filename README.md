@@ -2,8 +2,7 @@
 
 Black-box pricing engine (`oracle.py`). All rules were found by calling `quote()` and observing outputs — no implementation reading.
 
-## Check my work on Colab (start here)
-
+## Check my work on Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Legend-Recalls/BlackBox-Problem/blob/master/Blackbox_Problem.ipynb)
 
 1. Click the badge above (or open `Blackbox_Problem.ipynb` in this repo via Colab).
